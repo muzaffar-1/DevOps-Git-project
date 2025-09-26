@@ -59,6 +59,7 @@ It follows best practices including feature branching, pull requests, `.gitignor
 
 6. ## screenshot##
    https://github.com/user-attachments/assets/64fc28f5-01e3-4320-bc68-74222096a5bd
+
    https://github.com/user-attachments/assets/20c82d0b-8f3c-4e23-ae93-674e02d685cd
   { To view the image please copy and paste the url on browser.}
 
