@@ -56,8 +56,3 @@ It follows best practices including feature branching, pull requests, `.gitignor
      ```bash
      git tag -a v1.0 -m "First stable release"
      git push origin v1.0
-
-     ##screenshots
-
-     <img width="940" height="679" alt="image" src="https://github.com/user-attachments/assets/b3482f4f-e429-4760-bad6-79a6ecea0383" />
-
